@@ -1,0 +1,3 @@
+#### Offline Knowledge Distillation using Teacher and Peer Learning
+
+It is challenging to deploy large neural networks on systems with limited resources. Knowledge distillation was proposed as an approach to teach a small student model from a large teacher model. Different mechanisms have been proposed to perform knowledge distillation and many approaches are built on the analogy of how knowledge is transferred in a classroom setting. We extend the analogy of Teacher-Student learning further and propose an architecture of Teacher-Student-Peer learning, where knowledge is transferred from a teacher to multiple students as well as among students as collaborative knowledge transfer, similar to what happens in a classroom setting.
